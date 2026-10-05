@@ -2,6 +2,12 @@
 
 A simple Vite + React application for a college lab task. It includes a login page, a student dashboard, a profile page, and client-side navigation with React Router.
 
+## Open the deployed application
+
+https://vennela052007.github.io/Lab08/
+
+The site is built and deployed to GitHub Pages automatically whenever changes are pushed to `main`. Routes use the URL hash so Dashboard and Profile also work when opened or refreshed directly.
+
 ## Run the application
 
 ```sh
